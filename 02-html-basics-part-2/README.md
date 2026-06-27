@@ -75,6 +75,7 @@ After completing these examples, I learned:
 ⭐ Part of my Web Development Learning Journey
 
 Repository: HTML Practice part 2
+
 Author: Punith
 
 
