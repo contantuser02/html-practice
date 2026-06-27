@@ -62,9 +62,9 @@ After completing these examples, I learned:
 
 ### ⭐ Repository Progress
 
+- ✅ HTML Basics 
 - ✅ HTML Basics - Part 1
 - ✅ HTML Basics - Part 2
-- ⏳ HTML Basics - Part 3
 
 
 ---
@@ -72,5 +72,11 @@ After completing these examples, I learned:
 > 💡 **Note:** These files are created for learning and practicing HTML concepts. More HTML topics and projects will be added as I continue my web development journey.
 
 ---
+⭐ Part of my Web Development Learning Journey
+
+Repository: HTML Practice part 2
+Author: Punith
+
+
 
 
