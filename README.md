@@ -1,66 +1,120 @@
 # 🌐 HTML Practice Repository
 
-Welcome to my **HTML Practice Repository**.
+Welcome to my **HTML Practice Repository**! 🚀
 
-This repository contains my journey of learning **HTML** from beginner to advanced concepts. Every folder is organized by topic and includes examples, practice files, and mini projects.
-
----
-
-## 📚 Learning Roadmap
-
-### 📁 01 - Basic HTML
-Learn the fundamentals of HTML.
-
-Topics Covered:
-- HTML Document Structure
-- Headings
-- Paragraphs
-- Images
-- Video
-- Horizontal Rule
-- Text Formatting
-- Main Tag
+This repository contains my complete **HTML learning journey**, where I practice HTML concepts from beginner to advanced level. Every folder is organized topic-wise to make learning and revision easier.
 
 ---
 
-### 📁 02 - HTML Semantic & Structure
-Learn semantic HTML elements.
+## 📚 Repository Structure
 
-Topics Covered:
-- Header
-- Footer
-- Navigation
-- Article
-- Aside
-- Section
-- Div
-- Span
-- Anchor
-- Block vs Inline Elements
+```text
+html-practice/
+│
+├── 📁 01-basic-html
+│   ├── Headings
+│   ├── Paragraphs
+│   ├── Images
+│   ├── Video
+│   ├── HR
+│   ├── Underline
+│   ├── Italic
+│   ├── Main Tag
+│   └── More Basic HTML Tags
+│
+├── 📁 02-basic-html
+│   ├── Header
+│   ├── Footer
+│   ├── Navigation
+│   ├── Article
+│   ├── Aside
+│   ├── Main
+│   ├── Div
+│   ├── Span
+│   ├── Anchor
+│   └── Block vs Inline Elements
+│
+├── 📁 02-html-basics-part-2
+│   ├── Bold
+│   ├── BR
+│   ├── Comments
+│   ├── Paragraph
+│   ├── Pre
+│   ├── Ordered List
+│   ├── Nested Ordered List
+│   ├── List Item
+│   ├── Section
+│   └── Sup & Subscript
+│
+└── 📄 README.md
+```
 
 ---
 
-### more coming soon...
+# 🎯 Learning Goals
 
+- Learn HTML from Beginner to Advanced
+- Understand HTML5 Semantic Elements
+- Practice every HTML tag with examples
+- Build a strong Web Development foundation
+- Keep all practice code well organized
+- Prepare for CSS, JavaScript, and future projects
 
+---
+
+# 📈 Progress
+
+| Module | Status |
+|---------|:------:|
+| HTML Basics - Part 1 | ✅ Completed |
+| HTML Semantic Elements | ✅ Completed |
+| HTML Basics - Part 2 | ✅ Completed |
+
+---
+
+# 💻 Technologies Used
+
+- HTML5
+- Visual Studio Code
+- Git
+- GitHub
+
+---
+
+# 📌 Repository Purpose
 
 This repository is created to:
 
-- Practice HTML concepts daily
-- Build a strong foundation in Web Development
-- Keep all HTML examples organized
-- Track my learning progress
-- Prepare for future CSS, JavaScript, and React projects
-
-
-## 👨‍💻 Author
-
-**Punith Adeli**
-
-Learning Web Development one step at a time 🚀
+- Practice HTML concepts daily.
+- Track my learning progress.
+- Build a strong coding habit.
+- Create a professional GitHub portfolio.
+- Maintain organized practice files.
 
 ---
 
-⭐ If you like this repository, feel free to give it a Star.
+# 🚀 Future Plans
 
+- HTML Forms & Tables
+- HTML Multimedia
+- CSS Basics
+- CSS Layouts
+- JavaScript Basics
+- DOM Manipulation
+- Responsive Web Design
+- Mini Projects
+- Major Projects
 
+---
+
+# ⭐ Support
+
+If you like this repository, consider giving it a ⭐.
+
+---
+
+## 👨‍💻 Author
+
+**Punith**
+
+*Learning Web Development one step at a time.* 🚀
