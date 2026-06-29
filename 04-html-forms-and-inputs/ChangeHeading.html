@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change Heading By Button</title>
+</head>
+<body>
+    <form>
+        <h2 id="Head"> Welcome........</h2>
+        <br>
+        <label for="Heading">Click Here:</label>
+        <input type="button"
+        id="Heading"
+        value="Show Hello HTML"
+        onclick="document.getElementById('Head').innerHTML='Hello HTML!....'">
+
+       <br>
+        <label for="header">Click Here:</label>
+        <input
+        type="button"
+        id="header"
+        value="Show Welcome"
+        onclick="document.getElementById('Head').innerHTML='Welcome'">
+    </form>
+</body>
+</html>
