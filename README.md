@@ -4,11 +4,9 @@ Welcome to my **HTML Practice Repository**!
 
 This repository contains my complete **HTML learning journey**, where I practice HTML concepts from beginner to advanced level. Every folder is organized topic-wise to make learning, revision, and future reference easier.
 
----
-
 # 📂 Repository Structure
 
-```
+```text
 html-practice/
 │
 ├── 📁 01-basic-html
@@ -51,8 +49,20 @@ html-practice/
 │   ├── Ordered Lists
 │   └── Unordered Lists
 │
+├── 📁 04-html-forms-and-inputs
+│   ├── Forms
+│   ├── Buttons
+│   ├── Checkbox
+│   ├── Color Picker
+│   ├── Date Input
+│   ├── File Upload
+│   ├── Form Action
+│   ├── Change Heading
+│   └── Change Color
+│
 ├── 📁 10-html-projects
-│   └── Personal Portfolio Website
+│   ├── Project 1 – Personal Portfolio Website
+│   └── Project 2 – College Library Website
 │
 └── README.md
 ```
@@ -61,70 +71,74 @@ html-practice/
 
 # 📚 Topics Covered
 
-* HTML Basics
-* Semantic HTML
-* Text Formatting
-* Images
-* Audio & Video
-* Hyperlinks
-* Lists
-* Tables
-* Block & Inline Elements
-* HTML Projects
+- ✅ HTML Basics
+- ✅ Semantic HTML
+- ✅ Text Formatting
+- ✅ Hyperlinks
+- ✅ Images
+- ✅ Audio & Video
+- ✅ Lists
+- ✅ Tables
+- ✅ Block & Inline Elements
+- ✅ HTML Forms
+- ✅ HTML Input Types
+- ✅ Form Controls
+- ✅ HTML Attributes
+- ✅ Mini HTML Projects
 
 ---
 
 # 💻 Projects
 
-### ✅ Project 1 – Personal Portfolio Website
+## ✅ Project 1 – Personal Portfolio Website
 
-A beginner-friendly portfolio website built using only HTML.
+A beginner-friendly personal portfolio built using **HTML only**.
 
-**Features**
+### Features
 
-* Home
-* About Me
-* Education
-* Skills
-* Projects
-* Contact
-* Internal Navigation
-* Images
-* Tables
-* Lists
-
-More projects will be added as I continue learning.
+- 🏠 Home
+- 👨‍💻 About Me
+- 🎓 Education
+- 💡 Skills
+- 📂 Projects
+- 📞 Contact
+- 🔗 Internal Navigation
 
 ---
 
-# 🎯 Learning Goals
+## ✅ Project 2 – College Library Website
 
-* Build a strong HTML foundation
-* Practice HTML every day
-* Create real-world beginner projects
-* Prepare for CSS and JavaScript
-* Improve problem-solving skills
-* Build a professional GitHub portfolio
+A simple **College Library Website** developed using HTML to practice page layout, navigation, tables, forms, and content organization.
 
----
+### Features
 
-# 🛠️ Technologies Used
+- 📚 Library Home Page
+- 📖 Books Section
+- 🏛️ Department Section
+- 🔍 Search Box
+- 📋 Tables
+- 🖼️ Images
+- 📝 Forms
+- 🔗 Internal Navigation
 
-* HTML5
+🚀 More projects will be added as I continue learning.
 
 ---
 
 # 📈 Learning Roadmap
 
-* ✅ HTML Basics
-* ✅ Semantic HTML
-* ✅ Tables & Lists
-* 🔄 HTML Forms
-* 🔄 Multimedia
-* ⏳ CSS
-* ⏳ Responsive Design
-* ⏳ JavaScript
-* ⏳ React
+| Topic | Status |
+|--------|--------|
+| HTML Basics | ✅ Completed |
+| Semantic HTML | ✅ Completed |
+| Tables & Lists | ✅ Completed |
+| HTML Forms & Inputs | ✅ Completed |
+| HTML Projects | 🚀 Ongoing |
+| CSS | ⏳ Coming Soon |
+| Responsive Design | ⏳ Coming Soon |
+| JavaScript | ⏳ Coming Soon |
+| React | ⏳ Future Goal |
+
 
 ---
 
