@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input Type Range</title>
+</head>
+<body>
+
+    <h1>HTML Input Type - Range</h1>
+
+    <form>
+
+        <!-- Basic Range -->
+        <label>Volume</label><br>
+        <input type="range">
+        <br><br>
+
+        <!-- Min & Max -->
+        <label>Brightness (0 - 100)</label><br>
+        <input type="range" min="0" max="100">
+        <br><br>
+
+        <!-- Default Value -->
+        <label>Sound Level</label><br>
+        <input type="range" min="0" max="100" value="50">
+        <br><br>
+
+        <!-- Step -->
+        <label>Temperature</label><br>
+        <input type="range" min="0" max="100" step="10">
+        <br><br>
+
+        <!-- Disabled -->
+        <label>Disabled Slider</label><br>
+        <input type="range" min="0" max="100" value="70" disabled>
+        <br><br>
+
+        <!-- Required -->
+        <label>Required Range</label><br>
+        <input type="range" min="1" max="10" required>
+        <br><br>
+
+        <!-- Name -->
+        <label>Gaming Volume</label><br>
+        <input type="range" name="volume" min="0" max="100">
+        <br><br>
+
+        <!-- ID -->
+        <label for="speed">Fan Speed</label><br>
+        <input type="range" id="speed" min="1" max="5">
+        <br><br>
+
+        <!-- Class -->
+        <label>Class Example</label><br>
+        <input type="range" class="slider">
+        <br><br>
+
+        <!-- Autofocus -->
+        <label>Auto Focus Slider</label><br>
+        <input type="range" autofocus>
+        <br><br>
+
+        <!-- Multiple Attributes Together -->
+        <label>Music Volume</label><br>
+        <input
+            type="range"
+            id="music"
+            name="music"
+            min="0"
+            max="100"
+            step="5"
+            value="40">
+        <br><br>
+
+        <input type="submit">
+
+    </form>
+
+</body>
+</html>
