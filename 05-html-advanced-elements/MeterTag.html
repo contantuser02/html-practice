@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meter Tag Example</title>
+</head>
+<body>
+    <h1>Meter Tag Example</h1>
+    <!--Meter Tag-->
+    <label for="Disk">Disk Usage:</label>
+    <p>0<meter value="90" min="0"  max="100"id="Disk"></meter>100</p>
+
+    <label for="Disk1">Disk Usage:</label>
+    <p>0<meter value="20" min="0" low="30" high="90"  max="100" id="Disk1"></meter>100</p>
+
+     <label for="Disk1">Disk Usage:</label>
+    <p>0<meter value="99" min="0" low="30" high="90"  max="100" id="Disk1"></meter>100</p>
+
+
+
+    <!--Describing a particular region-->
+    <div  aria-busy="true" aria-describedby="meter">
+       Meter is being used on this region. Please wait until the process is complete.
+    </div>
+    <meter  id="Meter" aria-label="Content is Processing">Meter</meter>
+
+    
+</body>
+</html>
