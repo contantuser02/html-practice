@@ -60,6 +60,16 @@ html-practice/
 │   ├── Change Heading
 │   └── Change Color
 │
+├── 📁 04-html-forms-and-inputs-Part-2
+│   ├── Iframe
+│   ├── Input Tag
+│   ├── label
+│   ├── Name&Value
+│   ├── Radio Input
+│   ├── Range
+│   ├── Select
+│   ├── Text Area
+│   
 ├── 📁 10-html-projects
 │   ├── Project 1 – Personal Portfolio Website
 │   └── Project 2 – College Library Website
