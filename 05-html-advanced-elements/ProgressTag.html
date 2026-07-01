@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progress Tag Example</title>
+</head>
+<body>
+    <h1>Progress Tag Example</h1>
+    <!--Progress Tag-->
+    <label for="Download">Download Progress:</label>
+    <p>0<progress value="70" max="100" id="Download"></progress>100</p>
+    <!--Describing a particular region-->
+
+    <div  aria-busy="true" aria-describedby="progress">
+       Progress is being made on this region. Please wait until the process is complete.
+    </div>
+    <progress  id="Progress" aria-label="Content is Processing">Progress</progress>
+</body>
+</html>
