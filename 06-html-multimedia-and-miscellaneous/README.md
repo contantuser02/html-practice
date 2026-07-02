@@ -84,6 +84,13 @@ This folder is a part of my **HTML Learning Journey** where I practice HTML5 mul
 Every example is created for learning, revision, and improving my HTML skills.
 
 ---
+## 👨‍💻 Author
+
+**Punith Adeli**
+
+Computer Science Engineering Student
+
+Currently Learning Web Development 🚀
 
 ⭐ Thank you for visiting my repository!
 
