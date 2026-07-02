@@ -69,7 +69,36 @@ html-practice/
 │   ├── Range
 │   ├── Select
 │   ├── Text Area
-│   
+│
+├── 📁 05-html-advanced-elements
+│   ├── Abbreviation Tag
+│   ├── Address Tag
+│   ├── DataList Tag
+│   ├── Figure & Figcaption
+│   ├── Mark Tag
+│   ├── Meter Tag
+│   ├── OptGroup Tag
+│   ├── Output Tag
+│   ├── Picture Tag
+│   └── Progress Tag
+│
+├── 📁 06-html-multimedia-and-miscellaneous
+│   ├── Audio Tag
+│   ├── Video Tag
+│   ├── Source Tag
+│   ├── Track Tag
+│   ├── Details Tag
+│   ├── Summary Tag
+│   ├── HTML Entities
+│   ├── HTML Emojis
+│   ├── Time Tag
+│   └── Character Encoding
+│  
+│
+│
+│
+│
+│
 ├── 📁 10-html-projects
 │   ├── Project 1 – Personal Portfolio Website
 │   └── Project 2 – College Library Website
