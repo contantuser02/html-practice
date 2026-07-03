@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SkyCast - Weather Information Website</title>
+</head>
+<body>
+
+<header id="home">
+
+<table border="1" width="100%" cellpadding="15">
+<tr>
+<td width="20%">
+<h2>🌤 SkyCast</h2>
+<small>Weather Information Website</small>
+</td>
+
+<td align="center" width="35%">
+<input type="search" placeholder="Search Your City" size="35">
+<button>Search</button>
+</td>
+
+<td align="center">
+<label><b>Unit</b></label><br>
+<select>
+<option>Celsius (°C)</option>
+<option>Fahrenheit (°F)</option>
+</select>
+</td>
+
+<td align="center">
+📍 Current Location
+<br><br>
+<button>Use My Location</button>
+</td>
+</tr>
+</table>
+
+<nav>
+<table border="1" width="100%" cellpadding="12">
+<tr align="center">
+<td><a href="#home">🏠 Home</a></td>
+<td><a href="#current-weather">🌤 Current Weather</a></td>
+<td><a href="#forecast">📅 Forecast</a></td>
+<td><a href="#air-quality">🌬 Air Quality</a></td>
+<td><a href="#cities">🌍 Cities</a></td>
+<td><a href="#map">🗺 Weather Map</a></td>
+<td><a href="#news">📰 News</a></td>
+<td><a href="#tips">💡 Tips</a></td>
+<td><a href="#contact">📞 Contact</a></td>
+<td><a href="#about">ℹ About</a></td>
+</tr>
+</table>
+</nav>
+
+<hr>
+
+<center>
+<h1>🌤 Weather Forecast Dashboard</h1>
+<h3>Know Today's Weather Before You Step Outside</h3>
+<p>Stay updated with the latest weather conditions and forecasts.</p>
+
+<figure>
+<img src="images/weather-banner.jpg" alt="Weather Banner" width="450">
+<figcaption>Weather Dashboard Banner</figcaption>
+</figure>
+
+<button>Today's Weather</button>
+<button>7-Day Forecast</button>
+</center>
+
+</header>
+
+<main>
+
+<section id="current-weather">
+<hr>
+<h2>🌡 Current Weather</h2>
+<table border="1" width="100%" cellpadding="10">
+<tr>
+<th>City</th><th>Temperature</th><th>Condition</th><th>Humidity</th><th>Wind</th>
+</tr>
+<tr>
+<td>Mumbai</td><td>31°C</td><td>☁ Cloudy</td><td>70%</td><td>12 km/h</td>
+</tr>
+</table>
+</section>
+
+<section id="forecast">
+<hr>
+<h2>🕒 Hourly Forecast</h2>
+<table border="1" width="100%" cellpadding="10">
+<tr><th>Time</th><th>Weather</th><th>Temp</th></tr>
+<tr><td>9:00 AM</td><td>☀ Sunny</td><td>29°C</td></tr>
+<tr><td>12:00 PM</td><td>🌤 Partly Cloudy</td><td>32°C</td></tr>
+<tr><td>3:00 PM</td><td>☁ Cloudy</td><td>31°C</td></tr>
+<tr><td>6:00 PM</td><td>🌧 Rain</td><td>28°C</td></tr>
+</table>
+
+<h2>📅 Weekly Forecast</h2>
+<table border="1" width="100%" cellpadding="10">
+<tr><th>Day</th><th>Weather</th><th>High</th><th>Low</th></tr>
+<tr><td>Monday</td><td>☀ Sunny</td><td>32°C</td><td>25°C</td></tr>
+<tr><td>Tuesday</td><td>🌧 Rain</td><td>29°C</td><td>24°C</td></tr>
+<tr><td>Wednesday</td><td>☁ Cloudy</td><td>30°C</td><td>24°C</td></tr>
+</table>
+</section>
+
+<section id="air-quality">
+<hr>
+<h2>🌬 Air Quality Index</h2>
+<table border="1" width="100%" cellpadding="10">
+<tr><th>AQI</th><th>Level</th><th>Advice</th></tr>
+<tr><td>82</td><td>Moderate</td><td>Normal outdoor activities are safe.</td></tr>
+</table>
+</section>
+
+<section id="cities">
+<hr>
+<h2>🌍 Popular Cities</h2>
+<table border="1" width="100%" cellpadding="10">
+<tr><th>City</th><th>Temperature</th><th>Status</th></tr>
+<tr><td>Delhi</td><td>36°C</td><td>☀ Sunny</td></tr>
+<tr><td>Mumbai</td><td>31°C</td><td>☁ Cloudy</td></tr>
+<tr><td>Bengaluru</td><td>27°C</td><td>🌧 Rain</td></tr>
+<tr><td>Kolkata</td><td>33°C</td><td>⛅ Partly Cloudy</td></tr>
+</table>
+</section>
+
+<section id="map">
+<hr>
+<center>
+<h2>🗺 Weather Map</h2>
+<img src="images/weather-map.jpg" alt="Weather Map" width="500">
+</center>
+</section>
+
+<section id="news">
+<hr>
+<h2>📰 Weather News</h2>
+<article>
+<ul>
+<li>Heavy rainfall expected this weekend.</li>
+<li>Heatwave alert issued.</li>
+<li>Monsoon likely to strengthen next week.</li>
+</ul>
+</article>
+</section>
+
+<aside id="tips">
+<hr>
+<h2>💡 Weather Safety Tips</h2>
+<ol>
+<li>Carry an umbrella.</li>
+<li>Drink enough water.</li>
+<li>Avoid thunderstorms.</li>
+<li>Check weather before travelling.</li>
+</ol>
+</aside>
+
+<section id="contact">
+<hr>
+<h2>📞 Contact Us</h2>
+<form>
+<label>Name</label><br>
+<input type="text" size="40"><br><br>
+
+<label>Email</label><br>
+<input type="email" size="40"><br><br>
+
+<label>City</label><br>
+<input type="text" size="40"><br><br>
+
+<label>Message</label><br>
+<textarea rows="6" cols="50"></textarea><br><br>
+
+<button>Submit</button>
+<button type="reset">Reset</button>
+</form>
+</section>
+
+<section id="about">
+<hr>
+<h2>ℹ About SkyCast</h2>
+<p>
+SkyCast is a simple HTML learning project created to practice semantic HTML,
+tables, forms, navigation, images and page structure before adding CSS and JavaScript.
+</p>
+</section>
+
+<section>
+<hr>
+<h2>❓ FAQ</h2>
+
+<details>
+<summary>Is this live weather?</summary>
+<p>No. This HTML version uses dummy data.</p>
+</details>
+
+<details>
+<summary>Can live weather be added later?</summary>
+<p>Yes. We will integrate JavaScript and a Weather API.</p>
+</details>
+</section>
+
+</main>
+
+<footer>
+<hr>
+<center>
+<h2>🌤 SkyCast</h2>
+<p>Made with ❤️ using HTML</p>
+<p>© 2026 All Rights Reserved.</p>
+<p><b>Designed & Developed by Punith Adeli</b></p>
+
+<a href="#home">Home</a> |
+<a href="#about">About</a> |
+<a href="#contact">Contact</a> |
+<a href="#news">News</a>
+
+<address>
+Email: support@skycast.com
+</address>
+</center>
+</footer>
+
+</body>
+</html>
