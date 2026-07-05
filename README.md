@@ -4,6 +4,8 @@ Welcome to my **HTML Practice Repository**!
 
 This repository contains my complete **HTML learning journey**, where I practice HTML concepts from beginner to advanced level. Every folder is organized topic-wise to make learning, revision, and future reference easier.
 
+---
+
 # 📂 Repository Structure
 
 ```text
@@ -60,15 +62,15 @@ html-practice/
 │   ├── Change Heading
 │   └── Change Color
 │
-├── 📁 04-html-forms-and-inputs-Part-2
+├── 📁 04-html-forms-and-inputs-part-2
 │   ├── Iframe
 │   ├── Input Tag
-│   ├── label
-│   ├── Name&Value
+│   ├── Label
+│   ├── Name & Value
 │   ├── Radio Input
 │   ├── Range
 │   ├── Select
-│   ├── Text Area
+│   └── Text Area
 │
 ├── 📁 05-html-advanced-elements
 │   ├── Abbreviation Tag
@@ -93,15 +95,40 @@ html-practice/
 │   ├── HTML Emojis
 │   ├── Time Tag
 │   └── Character Encoding
-│  
 │
+├── 📁 07-html-project-Weather_Website
+│   ├── Home Page
+│   ├── About Page
+│   ├── Weather Forecast
+│   ├── Contact Page
+│   ├── Privacy Policy
+│   ├── Terms & Conditions
+│   └── Assets
 │
+├── 📁 08-html-Digital-library-management-system
+│   ├── Home Page
+│   ├── Books
+│   ├── Departments
+│   ├── Membership
+│   ├── Contact
+│   └── Assets
 │
-│
+├── 📁 09-html-Hospital-management-system
+│   ├── Home Page
+│   ├── About
+│   ├── Doctors
+│   ├── Departments
+│   ├── Appointment
+│   ├── Gallery
+│   ├── Services
+│   ├── Contact
+│   ├── Privacy Policy
+│   ├── Terms & Conditions
+│   └── Assets
 │
 ├── 📁 10-html-projects
-│   ├── Project 1 – Personal Portfolio Website
-│   └── Project 2 – College Library Website
+│   ├── Project 1 - Personal Portfolio Website
+│   └── Project 2 - College Library Website
 │
 └── README.md
 ```
@@ -116,49 +143,101 @@ html-practice/
 - ✅ Hyperlinks
 - ✅ Images
 - ✅ Audio & Video
-- ✅ Lists
-- ✅ Tables
-- ✅ Block & Inline Elements
+- ✅ HTML Lists
+- ✅ HTML Tables
 - ✅ HTML Forms
 - ✅ HTML Input Types
-- ✅ Form Controls
 - ✅ HTML Attributes
-- ✅ Mini HTML Projects
+- ✅ HTML Multimedia
+- ✅ HTML Advanced Elements
+- ✅ HTML Entities & Emojis
+- ✅ HTML Projects
+- ✅ Weather Website
+- ✅ Digital Library Website
+- ✅ Hospital Management Website
 
 ---
 
 # 💻 Projects
 
-## ✅ Project 1 – Personal Portfolio Website
+## 🌤 Project 1 – Weather Website
 
-A beginner-friendly personal portfolio built using **HTML only**.
+A complete Weather Website built using only HTML.
+
+### Features
+
+- 🏠 Home Page
+- 🌦 Weather Forecast
+- 🌍 City Information
+- 📞 Contact Page
+- 📄 Privacy Policy
+- 📜 Terms & Conditions
+
+---
+
+## 📚 Project 2 – Digital Library Management Website
+
+A beginner-friendly Digital Library website developed using HTML.
+
+### Features
+
+- 🏠 Home Page
+- 📖 Books Section
+- 🏛 Department Section
+- 👨‍🎓 Membership
+- 🔍 Search Area
+- 📞 Contact Page
+
+---
+
+## 🏥 Project 3 – Hospital Management Website
+
+A complete multi-page Hospital Website created using HTML.
 
 ### Features
 
 - 🏠 Home
-- 👨‍💻 About Me
-- 🎓 Education
-- 💡 Skills
-- 📂 Projects
+- ℹ About
+- 👨‍⚕️ Doctors
+- 🏢 Departments
+- 📅 Appointment
+- 🖼 Gallery
+- 💊 Services
 - 📞 Contact
-- 🔗 Internal Navigation
+- 📜 Privacy Policy
+- 📄 Terms & Conditions
 
 ---
 
-## ✅ Project 2 – College Library Website
+## 💼 Project 4 – Personal Portfolio Website
 
-A simple **College Library Website** developed using HTML to practice page layout, navigation, tables, forms, and content organization.
+A clean and professional portfolio website built using HTML.
 
 ### Features
 
-- 📚 Library Home Page
-- 📖 Books Section
-- 🏛️ Department Section
-- 🔍 Search Box
-- 📋 Tables
-- 🖼️ Images
+- 👨 About Me
+- 🎓 Education
+- 💻 Skills
+- 📂 Projects
+- 📞 Contact
+- 🔗 Navigation Menu
+
+---
+
+## 📖 Project 5 – College Library Website
+
+A simple College Library Website for practicing HTML layouts.
+
+### Features
+
+- 📚 Home Page
+- 📖 Book Collection
+- 🏛 Departments
 - 📝 Forms
-- 🔗 Internal Navigation
+- 🔍 Search
+- 📋 Tables
+
+---
 
 🚀 More projects will be added as I continue learning.
 
@@ -170,24 +249,33 @@ A simple **College Library Website** developed using HTML to practice page layou
 |--------|--------|
 | HTML Basics | ✅ Completed |
 | Semantic HTML | ✅ Completed |
-| Tables & Lists | ✅ Completed |
-| HTML Forms & Inputs | ✅ Completed |
-| HTML Projects | 🚀 Ongoing |
+| HTML Lists | ✅ Completed |
+| HTML Tables | ✅ Completed |
+| HTML Forms | ✅ Completed |
+| HTML Advanced Elements | ✅ Completed |
+| Multimedia | ✅ Completed |
+| Weather Website | ✅ Completed |
+| Digital Library Website | ✅ Completed |
+| Hospital Management Website | ✅ Completed |
+| Personal Portfolio Website | ✅ Completed  |
+| College Library Website | 🚀 Ongoing |
 | CSS | ⏳ Coming Soon |
 | Responsive Design | ⏳ Coming Soon |
 | JavaScript | ⏳ Coming Soon |
-| React | ⏳ Future Goal |
-
+| React | 🎯 Future Goal |
 
 ---
 
 # ⭐ Repository Highlights
 
-* 📁 Topic-wise folder structure
-* 📄 Well-documented README files
-* 🚀 Beginner HTML projects
-* 💻 Daily practice and commits
-* 📚 Easy to navigate and revise
+- 📁 Well-organized folder structure
+- 📚 Beginner to Advanced HTML concepts
+- 💻 Multiple HTML Projects
+- 📄 Clean and documented code
+- 🚀 Daily practice and updates
+- 📝 Easy for revision
+- 🎯 Project-based learning
+- 🌱 Continuous learning journey
 
 ---
 
@@ -195,31 +283,53 @@ A simple **College Library Website** developed using HTML to practice page layou
 
 Hi, I'm **Punith Adeli**.
 
-I'm a Computer Science Engineering student passionate about learning Web Development. Currently, I'm building a strong foundation in HTML and gradually moving toward CSS, JavaScript, React, and Full Stack Development.
+I'm a Computer Science Engineering student passionate about learning Web Development.
+
+Currently, I'm mastering **HTML**, and my next goals are:
+
+- 🎨 CSS
+- ⚡ JavaScript
+- ⚛ React
+- 🌐 Full Stack Development
+- 🚀 Open Source Contributions
+
+I believe in learning by building real-world projects.
 
 ---
 
 # 🌟 Future Plans
 
-* Build 10+ HTML Projects
-* Learn CSS
-* Learn JavaScript
-* Build Responsive Websites
-* Create Full Stack Projects
-* Contribute to Open Source
+- 🚀 Build 20+ HTML Projects
+- 🎨 Learn CSS
+- 📱 Build Responsive Websites
+- ⚡ Learn JavaScript
+- ⚛ Learn React
+- 🌐 Learn Backend Development
+- 💼 Become a Full Stack Developer
+- 🤝 Contribute to Open Source
 
 ---
 
-# ⭐ If you like this repository
+# ⭐ Support
 
-Please consider giving it a **Star ⭐** if you find it helpful.
+If you found this repository helpful,
 
-It motivates me to continue learning and building more projects.
+please consider giving it a **Star ⭐**.
+
+It motivates me to build more projects and keep learning every day.
 
 ---
 
-## 📌 Connect With Me
+# 📌 Connect With Me
 
-GitHub: https://github.com/contantuser02
+### GitHub
 
-Learning Web Development 🚀
+https://github.com/contantuser02
+
+---
+
+## 🚀 Happy Coding!
+
+> "The best way to learn programming is by building projects consistently."
+
+**Learning • Building • Improving 💙**
