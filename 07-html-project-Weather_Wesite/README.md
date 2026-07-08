@@ -1,6 +1,6 @@
 # 🌦️ SkyCast - Weather Information Website
 
-A clean and responsive **Weather Information Website** created using **pure HTML**. This project is designed to practice HTML concepts by building a real-world weather website interface without using CSS frameworks or JavaScript APIs.
+A clean and responsive **Weather Information Website** created using **pure HTML**. 
 
 The website provides a modern weather dashboard layout with multiple sections such as weather forecast, air quality, weather alerts, popular cities, weather news, FAQs, and contact information.
 
